@@ -1,2 +1,2 @@
-# Japanese_N4
-Note to the JLPT N4 
+## Note on the JLPT N4 Level
+
