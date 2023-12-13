@@ -22,5 +22,5 @@ Remarks
 名詞文
 ３．　今日は昨日ほど寒くない。
 
-[ref] (https://jlptsensei.com/learn-japanese-grammar/%E7%A8%8B-%E3%81%BB%E3%81%A9-hodo-meaning/)
+[reference](https://jlptsensei.com/learn-japanese-grammar/%E7%A8%8B-%E3%81%BB%E3%81%A9-hodo-meaning/)
 
