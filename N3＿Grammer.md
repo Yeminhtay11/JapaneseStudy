@@ -58,12 +58,15 @@ Rules, customs or schedules that has been decided　without　your desire.
   -->大阪に出張すると決まった
   
 
-## ～ようになっている　ဖြစ်‌လာတယ်
+## ～ようになっている　ဖြစ်‌လာတယ် (updated)
 
 + Review
 　動詞「辞書形＋ない形」／名詞の　+　ように＝みたいに
+
   ような　＝みたいな
+  
   動詞／Adj+ように　　⇒　私は早き李さんのように、　上手に日本語が話せるようになりたい。
+  
   ような　+　phrase　that　explained　objects　in　front　of　ような　-->　私もおなたが　着ているようなセーターが欲しい。
 + 説明
   used that something is designed to do something　or　state that it changed from the past and is better for the system
@@ -72,4 +75,25 @@ Rules, customs or schedules that has been decided　without　your desire.
 + 例文
   当店ではクレジットカードか使えるようになっています。
   
+## ～みたいだ　(~လိုမျိုးထင်ရတယ်)
++ Usage：　（１）推量　すいりょう(It　look　like）ခန့်မှန်းပြောဆို　(2)　比喩　ひゆ　တင်စားပြောဆို（　(3)　例示　　れいじ　(similar　to）ခိုင်းနှိုင်းပြောဆို
++ Pattern
+  
+  plain form + みたいだ
+  みたいに+　動詞・Adj
+  みたいな＋名詞
++ すいりょう：ほしがたくさんでている。　明日も晴れ見たい。
++ ひゆ：　あの雲、見て。　像みたいな形だよ。
++ 例を示す：　私は寒いのがきらいなので、ハワイみたな、1年中暖かいところで暮らしたい。
+
+ ## らしい　ထင်ရတယ်/လိုမျိုး
+ + pattern　：　plain　form+　らしい
+   
+ + Usage：
+ + 推量 ခန့်မှန်းပြောဆိုတာ：雨が降ったらしい
+ + 伝聞 တဆင့်ကြားတာကို ပြန်ပြောတား　：ニュースによると、今年の夏も暑いらしい。
+ + てんけいてき：about talking the nature and character possessed by
+
+   今日は暖かくて、春らしい電気だね。
+   バイトしてばかりないで、がくせいらしく　しっかり　勉強をしなさい。
 
