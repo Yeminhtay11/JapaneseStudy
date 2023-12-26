@@ -94,7 +94,8 @@ Rules, customs or schedules that has been decided　without　your desire.
  + 伝聞 တဆင့်ကြားတာကို ပြန်ပြောတား　：ニュースによると、今年の夏も暑いらしい。
  + てんけいてき：about talking the nature and character possessed by
 
-   今日は暖かくて、春らしい電気だね。
+   今日は暖かくて、春らしい天気だね。
+   
    バイトしてばかりないで、がくせいらしく　しっかり　勉強をしなさい。
 
 ## 　～つもり　(လို့ထင်ထားပေမဲ့)
