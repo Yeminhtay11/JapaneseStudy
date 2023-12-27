@@ -242,9 +242,64 @@ Rules, customs or schedules that has been decided　without　your desire.
 
 書けば、書きゃ、
 
-～げば　～ぎゃ
+## から～にかけて　(မှ .... အထိ)
++ 意味
+～ぐらいから　～ぐらいまで
 
-泳げば、稼げば	
+  「から～まで」は　始まっりと終わりがはっきり　However, this is used for a general description of the previous pattern.
+  
+  一回だげのことには使わない
+  
+  without 「から」, it is also can be used.
+  
++ Pattern
 
+  N1 から　N2 にかけて
+  
++ 例文
+
+  土曜日　夕方　から　日曜日の朝にかけて　雨になりそうです。
+
+  12時から1時にかけてレストランは　混みます。
+
+  これから年末にかけて、忙しくなるなあ。
+
+ ## ~ だあけ　（...ချည်းဘဲ) 
++ 意味
+
+  （－）のものがたくさんあるじょうたい
+
+  よくないことに使うことが多い
+
+  「ばかり」bring good meaning compared to だらけ。
+  
+  日本人だらけの　かんきょうで　育った　means that he is not pleasant feeling.
+  
++ pattern
+  名詞　+　だらけ
++ 例文
+
+  日本は英語だ明けで　嫌になる。（いや）
+  
+  この寮はおとこだらけだ。
+
+  ## ～　おかげ　（ကျေးဇူးကြောင့်)　thanks to
+
++ 意味
+  Thanks to. Basically used to describe the the cause  of a good outcome but can be used for bad results but it is ironic.
++ pattern
+  
+  N　の、｛V　and　いAdj｝⇒　plain、な　Adj⇒な　+おかげで
+  
++ 例文
+  薬を飲んだおかげで、　すっかり元気になりました。
+
+  毎日、日本人の友達と話したおかげで、日本語が上手になりました。
+  Thanks　to talking with my Japanese friend every day, my Japanese has become better.
+
+君のミスしてくれたおかげで、　ぜんぶやり　直しだよ。
+Thanks to your mistake, I had to start all over again.
+  
++ 
 
 
