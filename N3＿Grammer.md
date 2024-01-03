@@ -264,7 +264,7 @@ Rules, customs or schedules that has been decided　without　your desire.
 
   これから年末にかけて、忙しくなるなあ。
 
- ## ~ だあけ　（...ချည်းဘဲ) 
+ ## ~ だらけ　（...ချည်းဘဲ) 
 + 意味
 
   （－）のものがたくさんあるじょうたい
@@ -279,7 +279,7 @@ Rules, customs or schedules that has been decided　without　your desire.
   名詞　+　だらけ
 + 例文
 
-  日本は英語だ明けで　嫌になる。（いや）
+  日本は英語だらけで　嫌になる。（いや）
   
   この寮はおとこだらけだ。
 
@@ -299,7 +299,65 @@ Rules, customs or schedules that has been decided　without　your desire.
 
 君のミスしてくれたおかげで、　ぜんぶやり　直しだよ。
 Thanks to your mistake, I had to start all over again.
+
+ ## せい　（ကြောင့်) (အပြစ်ကြောင့်)
+ 
++ ‌pattern
+  N の、動詞、いAdj-->　plain、な　Adj⇒な+せい
   
-+ 
++ 意味
+  because of / due to / on account of
+   ‌Used to describe the cause of a bad result.
+  it is the opposite word of "おかげで”。
++  ‌せいか　（cannot judge clearly what is the true reason as in せい）
+
+  気のせいか、最近父は元気がないようだ。
++  ‌例文
+
+  雨が降ったせいで、　楽しみにしていた旅行が中止になった。
+
+  さっきこーひを飲んだせいで、全然眠らない。
+
+  体調が悪かったせいで、　試験に　集中できなかった。
+
+## 　～とおり　(အတိုင်း)
+  
++  ‌Pattern
+  V Dictionary Form or Ta Form　or N の +とおり
+  N　+　　どおりに
++  ‌意味
+  
+～それとどうようにうに　same as
+
++  ‌例文
+
+  わたしのいうとおりにしなさい。　Do as I say.
+
+  天気予報のとおりに、ごごからあめがふるはじめた。
+
+  飛行機は予定通り、　出発した。
+## ～について／　つき　（နှင့်ပတ်သက်၍)
+
++  ‌pattern
+
+  名詞+について
+  
++   ‌意味
+
+  ～ことを話す・書きます／しらべる／など
++   ‌例文
+  私は大学で日本の歴史について勉強したい。
+「この記事についてのご意見をお聞かせてください。」
+
+## ~にかんして（ပတ်သက်ဆက်နွယ်၍)
+
++   ‌pattern
+
+  名詞　+　に関して
++   ‌意味
+  About/ regarding to 
++   例文
+  申し込み手続きに関して　お伺いしたいのでが。
+  パソコンで環境問題に関するきじをけんさくした。
 
 
