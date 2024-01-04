@@ -360,4 +360,113 @@ Thanks to your mistake, I had to start all over again.
   申し込み手続きに関して　お伺いしたいのでが。
   パソコンで環境問題に関するきじをけんさくした。
 
+## にくらべ（て）(နှိုင်းယှဥ်ရင်)
++ pattern
+
+  名詞　✙　に比べて
++ ‌意味
+
+  compared to
+
+It can be replaced with the comparative expression ``より'' which is studied in beginners. There is also a way to say "に比べて"
++ 例文
+
+以前に比べて、、私の日本語は上手になった。
+明日に比べて、今日はすごし寒いね。　It is  little colder than yesterday.
+きょねんのふゆにくらべて、ことしはずいぶんさむい。It’s　much colder this year compared to last year.
+
+## ～にくわえ（て）～ ထို့အပြင်
+  
++ ‌pattern
+
+  名詞　✙　にくわえて
++ ‌意味
+
+  ～だけでなく。さらに
+
+  ~ In addition to
++ 例文
+
+  今週はいつものテストに加えてレポート提出もあり、とても　忙しい。
+
+  木村さんの作文は文法の間違い少ないことにくわえ、主張がはっきり話しやすい。
+
+## ~にたいし（て）
++ pattern
+  名詞　✙　に対して
+  
++ ‌意味
+ 1. A は～だが、B は。。。だ
+  toward
+２．　N　の　対して　in contract to 
++ ‌例文
+
+  わたしのせんせいはおんなのこにたいしてきびしいが、女の子に対しては　やさしい。
+
+  彼は女性に対しては　やさしい。
+
+  2. 八月の日本の　きせつ　は　夏なのに対して、おーすおラリアの季節は冬です。
+
+     
+## ~たびに　（အချိန်တိုင်းမှာ)
+     
++ pattern
+
+  V　（辞書形）　✙　たびに
+  N　の　✙　たびに
+
++ ‌意味
++ 
+  ＝のときはいつも／するといつも
+
+"whenever" , "every time ~".
+
+It expresses admiration, frustration, and other such emotions about the same result occurring whenever a certain situation takes place.
+
+Naturally, it is difficult to use for habitual things.
+Negative sentences and adjective sentences do not come in the consequent.
++ ‌例文
+
+あの人は会うたびに面白い話を聞かせてくれる。
+
+Whenever I meet him, he always has something　interesting to tell me.
+
+父は外国に行くたびに、たくさんおみやげをかってきてくれる。
+
+## ~たとえ　～ても　
+ 
++ ‌pattern
+  V／　Adj　✙　ても
+  N　でも　
++ ‌意味
+  Even　if the situation were,
+
+ Even if the antecedent situation is established, it does not affect the consequent situation.
++ ‌例文
+
+  たとえ忙しくても、毎日恋人に連絡するようにしている
+  たとえ５分だけであったとしても、彼と電話ができて嬉しいです。
+
+  ## ～って　（တဲ့)
+
++ ‌ၐpattern
+  
+  Plain form　✙って
+  
++ ‌意味
+
+  伝聞　「話し言葉」
+  
++ ‌例文
+
+  「おははさん、おとうさん、きょうはおそくなるって」
+
+  「田中さん、行くって？」「ううん、いかないって」
+
++ ‌ေ
++ ‌ေ
++ ‌ေ
++ ‌ေ
++ 
+
 
